@@ -1,5 +1,5 @@
 ### Estatísticas
   <a href="https://github.com/eo314357-coder">
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelosilvanno&theme=tokyonight" alt="Linguagens mais usadas"/> 
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelosilvanno&theme=tokyonight" alt="Estatísticas do GitHub"/> 
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eo314357-coder&theme=tokyonight" alt="Estatísticas do GitHub"/> 
   </a>
